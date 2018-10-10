@@ -1,0 +1,11 @@
+{
+  "name": "CrudOperationPOC",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "glob": "^7.1.2",
+    "mysql": "^2.16.0"
+  }
+}
